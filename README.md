@@ -64,6 +64,9 @@ All 20 available pins (`D2-D13`, `A0-A6`) are fully allocated, leaving `A7` free
 4. **Quick Stack Shortcuts:**
    * Pressing **RX ALL** (`D12`) or **TX ALL** (`D13`) instantly selects all three antennas for reception or transmission respectively, regardless of the active mode.
 
+##📜 License
+
+This project is open-source and intended for radio amateur use. 73!
 ---
 
 ## 📄 Source Code
